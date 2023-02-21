@@ -1,5 +1,10 @@
 # Regex-Tutorial
 
+The purpose of this activity is to show understanding of regex as well as to show competency in distilling and explaining complex technical information to non-technical people. 
+
+The goal is for a non-programmer layperson to be able to read the tutorial and gain a basic understanding of how regex works. 
+
+
 ### Acceptance Criteria
 
 ```
